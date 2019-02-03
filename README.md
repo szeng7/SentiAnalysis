@@ -1,3 +1,3 @@
-# SentimentAnalysis
+# Sentiment Analysis
 
 A common task in Natural Language Processing is sentiment anaylsis, where each word's contribution of a particular opinion or "feeling" is analyzed and calculated. This is especially useful in trying to understand the meaning of those said words. As such, I take a dataset of Amazon reviews for app products, run some analysis on the reviews before then teaching a model to guess if a review is positive or negative based on this sentiment analysis (trained using logistic regression). The dataset is included as well as step-by-step instructions/explanations in the jupyter notebook so that one can easily remake the results (to an extent, given that models won't predict exactly the same everytime). 
